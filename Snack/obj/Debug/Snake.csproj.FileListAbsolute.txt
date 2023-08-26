@@ -1,0 +1,10 @@
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\bin\Debug\Snack.exe.config
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\bin\Debug\Snack.exe
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\bin\Debug\Snack.pdb
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snake.Form1.resources
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snack.Properties.Resources.resources
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snack.exe
+C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snack.pdb
