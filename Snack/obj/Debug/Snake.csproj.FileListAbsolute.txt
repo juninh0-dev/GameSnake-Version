@@ -8,3 +8,23 @@ C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snake.
 C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snack.exe
 C:\Users\Juninho\Desktop\Juninho\Programas_me\Forms\Snack\Snack\obj\Debug\Snack.pdb
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\bin\Debug\Snack.exe.config
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\bin\Debug\Snack.exe
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\bin\Debug\Snack.pdb
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\obj\Debug\Snake.Form1.resources
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\obj\Debug\Snack.Properties.Resources.resources
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\obj\Debug\Snack.exe
+C:\Users\Usuario\Desktop\GameSnake-Version-1.0-main\Snack\obj\Debug\Snack.pdb
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\obj\Debug\Snake.Form1.resources
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\obj\Debug\Snack.Properties.Resources.resources
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\obj\Debug\Snack.exe
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\obj\Debug\Snack.pdb
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\bin\Debug\Snack.exe.config
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\bin\Debug\Snack.exe
+D:\ROCHA EXPO\GameSnake-Version-1.0-main\Snack\bin\Debug\Snack.pdb

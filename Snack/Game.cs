@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Snack.Properties;
+using Snake.Properties;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -88,9 +90,11 @@ namespace Snake
             }
             // -- Direção    onde a cobrinha está indo --
 
-            bitmapGraph.Clear(Color.White);
 
-            bitmapGraph.DrawImage(Properties.Resources.Apple, (Food.Location.X * 15), (Food.Location.Y * 15), 15, 15);
+           
+
+            bitmapGraph.DrawImage(Resources.xadrewz, 0, 0, 428, 428);
+            bitmapGraph.DrawImage(Resources.Apple, (Food.Location.X * 15), (Food.Location.Y * 15), 15, 15);
             bool gameOver = false;
 
             for (int i = 0; i < Snake.Length; i++)
@@ -126,7 +130,7 @@ namespace Snake
             {
                 Snake.Eat();
                 Food.CreateFood();
-                pontos += 5;
+                pontos += 500;
                 lblPontuacao.Text = "PONTOS: " + pontos;
             }
         }
