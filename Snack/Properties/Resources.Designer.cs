@@ -73,6 +73,16 @@ namespace Snack.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap snakehead {
+            get {
+                object obj = ResourceManager.GetObject("snakehead", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap xadrewz {
             get {
                 object obj = ResourceManager.GetObject("xadrewz", resourceCulture);

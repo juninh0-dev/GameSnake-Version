@@ -82,20 +82,20 @@
             this.Menu.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Menu.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Menu.Name = "Menu";
-            this.Menu.Size = new System.Drawing.Size(122, 24);
+            this.Menu.Size = new System.Drawing.Size(61, 24);
             this.Menu.Text = "Menu";
             // 
             // iniciarJogoToolStripMenuItem
             // 
             this.iniciarJogoToolStripMenuItem.Name = "iniciarJogoToolStripMenuItem";
-            this.iniciarJogoToolStripMenuItem.Size = new System.Drawing.Size(180, 24);
+            this.iniciarJogoToolStripMenuItem.Size = new System.Drawing.Size(156, 24);
             this.iniciarJogoToolStripMenuItem.Text = "Iniciar jogo";
             this.iniciarJogoToolStripMenuItem.Click += new System.EventHandler(this.iniciarJogoToolStripMenuItem_Click);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(180, 24);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(156, 24);
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 

@@ -101,11 +101,11 @@ namespace Snake
             {
                 if (i == 0)
                 {
-                    bitmapGraph.FillEllipse(new SolidBrush(ColorTranslator.FromHtml("#000000")), (Snake.Location[i].X * 15), (Snake.Location[i].Y * 15), 15, 15);
+                    bitmapGraph.DrawImage(Resources.snakehead, (Snake.Location[i].X * 15), (Snake.Location[i].Y * 15), 15, 15);
                 }
                 else
                 {
-                    bitmapGraph.FillEllipse(new SolidBrush(ColorTranslator.FromHtml("#4F4F4F")), (Snake.Location[i].X * 15), (Snake.Location[i].Y * 15), 15, 15);
+                    bitmapGraph.DrawImage(, (Snake.Location[i].X * 15), (Snake.Location[i].Y * 15), 15, 15);
                 }
                 if ((Snake.Location[i] == Snake.Location[0]) && (i > 0))
                 {
@@ -130,7 +130,7 @@ namespace Snake
             {
                 Snake.Eat();
                 Food.CreateFood();
-                pontos += 500;
+                pontos += 5;
                 lblPontuacao.Text = "PONTOS: " + pontos;
             }
         }
